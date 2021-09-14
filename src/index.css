@@ -1,0 +1,5 @@
+#root{
+  display: grid;
+  grid-template-columns: 500px auto;
+  grid-gap: 50px;
+}
